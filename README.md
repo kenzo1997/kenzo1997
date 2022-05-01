@@ -2,7 +2,8 @@
 
 Hey! My name is Kenzo and I am a software developer that loves to code. Exploring new  technologies is one of my favorite hobbies. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-coenaerts) [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-green?style=flat&logo=Fiverr&logoColor=white)](https://www.fiverr.com/kenzocoenaerts?public_mode=true) [![Upwork Badge](https://img.shields.io/badge/-upwork-darkgreen?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01220c98cb10bb683a?viewMode=1) [![Codewars Badge](https://img.shields.io/badge/-codewars-darkred?style=flat&logo=Codewars&logoColor=black)](https://www.codewars.com/users/kenzo1997) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-coenaerts) [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-green?style=flat&logo=Fiverr&logoColor=white)](https://www.fiverr.com/kenzocoenaerts?public_mode=true) [![Upwork Badge](https://img.shields.io/badge/-upwork-darkgreen?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01220c98cb10bb683a?viewMode=1) [![Codewars Badge](https://img.shields.io/badge/-codewars-darkred?style=flat&logo=Codewars&logoColor=black)](https://www.codewars.com/users/kenzo1997) [![leetcode Badge](https://img.shields.io/badge/-leetcode-orange?style=flat&logo=Leetcode&logoColor=black)](https://leetcode.com/coenaertskenzo/) 
+
 
 ---
 
